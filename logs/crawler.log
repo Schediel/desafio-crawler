@@ -1,0 +1,37 @@
+2025-06-09 14:10:22,352 - INFO - Iniciando raspagem de citações.
+2025-06-09 14:10:22,353 - INFO - Acessando https://quotes.toscrape.com/page/1/
+2025-06-09 14:10:24,404 - INFO - Acessando https://quotes.toscrape.com/page/2/
+2025-06-09 14:10:25,302 - INFO - Acessando https://quotes.toscrape.com/page/3/
+2025-06-09 14:10:26,005 - INFO - Acessando https://quotes.toscrape.com/page/4/
+2025-06-09 14:10:26,649 - INFO - Acessando https://quotes.toscrape.com/page/5/
+2025-06-09 14:10:27,511 - INFO - Acessando https://quotes.toscrape.com/page/6/
+2025-06-09 14:10:28,321 - INFO - Acessando https://quotes.toscrape.com/page/7/
+2025-06-09 14:10:29,024 - INFO - Acessando https://quotes.toscrape.com/page/8/
+2025-06-09 14:10:29,831 - INFO - Acessando https://quotes.toscrape.com/page/9/
+2025-06-09 14:10:30,641 - INFO - Acessando https://quotes.toscrape.com/page/10/
+2025-06-09 14:10:31,397 - INFO - Acessando https://quotes.toscrape.com/page/11/
+2025-06-09 14:10:31,953 - INFO - 100 citações coletadas.
+2025-06-09 14:10:32,335 - INFO - Dados salvos em JSON e CSV.
+2025-06-09 14:10:32,339 - INFO - ====== WebDriver manager ======
+2025-06-09 14:10:44,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-09 14:10:44,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-09 14:10:44,893 - INFO - Driver [C:\Users\glauc\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-09 14:24:12,507 - INFO - Iniciando raspagem de citações.
+2025-06-09 14:24:12,524 - INFO - Acessando https://quotes.toscrape.com/page/1/
+2025-06-09 14:24:14,042 - INFO - Acessando https://quotes.toscrape.com/page/2/
+2025-06-09 14:24:14,892 - INFO - Acessando https://quotes.toscrape.com/page/3/
+2025-06-09 14:24:15,716 - INFO - Acessando https://quotes.toscrape.com/page/4/
+2025-06-09 14:24:16,614 - INFO - Acessando https://quotes.toscrape.com/page/5/
+2025-06-09 14:24:17,438 - INFO - Acessando https://quotes.toscrape.com/page/6/
+2025-06-09 14:24:18,167 - INFO - Acessando https://quotes.toscrape.com/page/7/
+2025-06-09 14:24:18,958 - INFO - Acessando https://quotes.toscrape.com/page/8/
+2025-06-09 14:24:19,739 - INFO - Acessando https://quotes.toscrape.com/page/9/
+2025-06-09 14:24:20,404 - INFO - Acessando https://quotes.toscrape.com/page/10/
+2025-06-09 14:24:21,146 - INFO - Acessando https://quotes.toscrape.com/page/11/
+2025-06-09 14:24:21,812 - INFO - 100 citações coletadas.
+2025-06-09 14:24:22,296 - INFO - Dados salvos em JSON e CSV.
+2025-06-09 14:24:22,300 - INFO - ====== WebDriver manager ======
+2025-06-09 14:24:41,564 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-09 14:24:41,805 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-09 14:24:41,924 - INFO - Driver [C:\Users\glauc\.wdm\drivers\chromedriver\win64\137.0.7151.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-09 14:26:30,331 - INFO - Screenshot salva.

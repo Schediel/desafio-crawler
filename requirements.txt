@@ -1,0 +1,6 @@
+requests #biblioteca para fazer requisições HTTP
+beautifulsoup4 #biblioteca python para web scraping(extração de dados)
+pandas #biblioteca para manipulação de dados
+selenium # biblioteca para automação de navegadores
+webdriver-manager # controla a instalação do webdriver do navegador
+schedule # biblioteca para agendamento de tarefas
